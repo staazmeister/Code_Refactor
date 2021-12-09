@@ -96,30 +96,18 @@ h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*This selector affects the style for the "benefits-lead" class*/
+/*This selector affects the style for each "benefits" sections*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*This selector affects the style for the image for "benefits-lead" class*/
-.benefit-lead img {
+/*This selector affects the style for the image for each "benefits" section*/
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*This selector affects the style for the image for "benefits-brand" class*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/*This selector affects the style for the image for "benefits-cost" class*/
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/*This selector affects style for the "search-engine-optimization" class*/
+/*This selector affects style for each "content" section*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing   {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,16 +116,8 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*This selector affects the style for the "search-engine-optimization" image*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-/*This selector affects the style for the "online-reputation-management" image*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-/*This selector affects the style for the "social-media-marketing" image*/
-.social-media-marketing img {
+/*This selector affects the style for the image for "content" section*/
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 /*This selector affects the style for the footer*/
@@ -148,6 +128,6 @@ h3 {
     text-align: center;
 }
 /*This selector affects the style for the header in the footer element*/
-.footer h2 {
+.footer, h2 {
     font-size: 20px;
 }
