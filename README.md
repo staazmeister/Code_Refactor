@@ -3,9 +3,7 @@ Week 1 Homework
 This week's project was to refactor an existing code (HTML and CSS) utilizing a "User Story" and "Acceptance Criteria". In addition to refactoring the given code, we are required to excercise our ability to use git commands (as seen below) to track our work in our GitHub repository. 
 
 Git Commands:
--"git add"
--"git commit"
--"git push" 
+"git add", "git commit",and "git push" 
 
 ## User Story (provided in the homework instructions)
 AS A marketing agency
