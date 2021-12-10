@@ -1,6 +1,6 @@
 # Code_Refactor
 Week 1 Homework
-This week's project was to refactor an existing code (HTML and CSS) utilizing a "User Story" and "Acceptance Criteria". In addition to refactoring the given code, we are required to excercise our ability to use git commands (as seen below) to track our work in our Git Hub repository. 
+This week's project was to refactor an existing code (HTML and CSS) utilizing a "User Story" and "Acceptance Criteria". In addition to refactoring the given code, we are required to excercise our ability to use git commands (as seen below) to track our work in our GitHub repository. 
 
 Git Commands:
 -"git add"
@@ -25,3 +25,21 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Why this project is important
+Overall objective is to utilize our newly learned skills in html, css and git and to display our knowledge on how each element interacts with each other.
+
+## Actions taken for this project
+- I organized the index.html with HTML semantic elements
+- I added "alt" tags to all images
+- Ensured that the heading attribute fall in sequential order
+- Updated the title
+- Added descriptive comments to the html and css files
+- Used git commands to add, commit, and push all changes on to GitHub repository
+
+## View of how deployed application looks
+
+
+## Links to Deployed Application
+Live URL: https://staazmeister.github.io/Code_Refactor/
+
+URL for GitHub repository:https://github.com/staazmeister/Code_Refactor.git
