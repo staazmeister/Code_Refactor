@@ -38,6 +38,7 @@ Overall objective is to utilize our newly learned skills in html, css and git an
 
 ## View of how deployed application looks
 
+![image](https://user-images.githubusercontent.com/94095220/145525765-cf6019a5-361d-4792-b1c5-8288b31d1c6b.png)
 
 ## Links to Deployed Application
 Live URL: https://staazmeister.github.io/Code_Refactor/
